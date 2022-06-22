@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SCIBER"]
+	path = SCIBER
+	url = https://github.com/ravengan/sciber
+	shallow = true
+	registered = true
